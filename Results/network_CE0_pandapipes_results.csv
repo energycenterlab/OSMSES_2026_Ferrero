@@ -1,0 +1,19 @@
+KPI;pandapipes
+Mass flow rate supply i (kg/h);8848.000000000005
+Pressure drop supply between i and e (Pa);23414.08708578382
+Pressure drop return between a and i (Pa);23414.08708578375
+Pressure drop return between i and h (Pa);5908.726976601264
+Fluid temperature supply i (°C);69.99999999999983
+Fluid temperature supply h (°C);69.9377183299838
+Fluid temperature supply g (°C);69.86583899330236
+Fluid temperature supply f (°C);69.75818158121109
+Fluid temperature supply e (°C);69.58805905930222
+Fluid temperature supply SimpleDistrict_1 (°C);69.45130920218241
+Fluid temperature return i (°C);39.47768950380856
+Fluid temperature return h (°C);39.508319961250606
+Fluid temperature return g (°C);39.46917470442412
+Fluid temperature return f (°C);39.426566572132174
+Fluid temperature return e (°C);39.383720789519714
+Fluid temperature return SimpleDistrict_1 (°C);39.45130920218236
+Heat loss supply between i and h (W);319.9257144641418
+Total heat load supplied by heat source (W);308205.3333333333

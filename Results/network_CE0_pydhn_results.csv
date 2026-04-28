@@ -1,0 +1,19 @@
+KPI;pydhn
+Mass flow rate supply i (kg/h);8848.0
+Pressure drop supply between i and e (Pa);23105.32735931802
+Pressure drop return between a and i (Pa);23105.32735931802
+Pressure drop return between i and h (Pa);5828.0094236412115
+Fluid temperature supply i (°C);70.0
+Fluid temperature supply h (°C);69.93913676149354
+Fluid temperature supply g (°C);69.86948671279578
+Fluid temperature supply f (°C);69.76290657905886
+Fluid temperature supply e (°C);69.59366441100087
+Fluid temperature supply SimpleDistrict_1 (°C);69.45733767792986
+Fluid temperature return i (°C);39.486212269153704
+Fluid temperature return h (°C);39.515435606151335
+Fluid temperature return g (°C);39.47568248887055
+Fluid temperature return f (°C);39.433013137017056
+Fluid temperature return e (°C);39.39016934337137
+Fluid temperature return SimpleDistrict_1 (°C);39.45733767792986
+Heat loss supply between i and h (W);312.6395785272172
+Total heat load supplied by heat source (W);313483.73729493533
